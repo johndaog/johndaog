@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johndaog
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning how to build a ROM
 - 💞️ I’m looking to collaborate on a custom ROM
 - 📫 How to reach me ...
 
